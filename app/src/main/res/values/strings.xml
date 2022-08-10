@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="logo_content_desc">%s Logo</string>
+</resources>
