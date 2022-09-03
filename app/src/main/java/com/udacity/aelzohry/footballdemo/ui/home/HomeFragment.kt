@@ -36,6 +36,7 @@ class HomeFragment : Fragment() {
 
         // fetch leagues list
         viewModel.fetchLeagues()
+        viewModel.getTeamLeagues("eng.1","2022")
     }
 
 }
